@@ -1,0 +1,7 @@
+{
+  "name": "ConcertAppPaolo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
